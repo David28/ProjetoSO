@@ -1,0 +1,16 @@
+Trabalho realizado por:
+Grupo: 35
+David Dantas 56331
+Su Lishun 56375
+Miguel Seabra 56344
+
+Utilização:
+    criar um ficheiro config.txt
+    no terminal:
+    $make
+    $./bin/magnaeats config.txt
+
+Foi incluido um ficheiro config de exemplo.
+
+Para o tempo do alarme, é recomendado um intervalo de pelo menos 30 segundos, uma vez que com intervalo pequeno
+o user_interaction é difícil de realizar.
